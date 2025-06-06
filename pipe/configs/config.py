@@ -1,5 +1,5 @@
 # Configuration pour l'API Polygon.io
-API_KEY="xw6P36oWUqTKQQk8pMmdDBjY93u5Tn2W"
+API_KEY="xw6P36oWUY93u5Tn2W"
 TICKER="AAPL"
 # TICKER="X:BTCUSD"
 FROM_DATE = "2024-01-01"
