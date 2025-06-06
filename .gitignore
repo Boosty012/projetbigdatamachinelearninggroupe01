@@ -1,0 +1,5 @@
+myenv/
+__pycahe__/
+*.pyc
+*.pyo
+*.pyd
